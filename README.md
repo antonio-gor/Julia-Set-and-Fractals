@@ -1,4 +1,4 @@
-# Julia-set
+# Julia-Fractal-Set
 ## Exploring fractals in the Julia set
 
 > The infinite! No other question has ever moved so profoundly the spirit of man.
@@ -55,7 +55,7 @@ Generally, a command line call should follow the following format:
 $ python julia.py cX cY filename
 ```
 
-Here, cX and cY should be floats; filename will be typecast as a string. While laconic and lacking in parameters, adequate tuning of these two parameters will suffice to produce interesting results.
+Here, cX and cY should be floats; filename will be typecast as a string and indicated what filename should be used to save the rendered image(s). While laconic and lacking in parameters, adequate tuning of these two parameters will suffice to produce interesting results.
 
 ### Custom Function Calls
 
