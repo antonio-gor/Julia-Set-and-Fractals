@@ -9,7 +9,7 @@ David Hilbert
 
 Benoît Mandelbrot, [2004](https://www.edge.org/conversation/benoit_mandelbrot-a-theory-of-roughness)
 
-![julia_cX-0_75++_fb](gifs/julia_cX-0_75++_fb.gif "julia_cX-0_75++_fb")
+![julia_cX-0_75++_f](gifs/julia_cX-0_75++_f.gif "julia_cX-0_75++_f")
 
 ## Context
 Various great sources exist that present the reader with an overview of the [Julia set](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=3&ved=2ahUKEwjtvNCWqpblAhXMITQIHUhtBKkQFjACegQICxAG&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FJulia_set&usg=AOvVaw1TkOuJzmcaF8RU5kldqgG_) and, more broadly, [fractals](https://en.wikipedia.org/wiki/Fractal). (I highly suggest reading [Julia Set Fractal (2D)](http://paulbourke.net/fractals/juliaset/) by Paul Bourke and [
@@ -87,7 +87,7 @@ Below is a gallery of fractals produces with this code.
 
 ![julia_01spf_f](gifs/julia_02spf_f.gif "julia_01spf_f")
 
-![julia_cX=-0.9_zoom_r](gifs/julia_cX=-0.9_zoom_r.gif "julia_cX=-0.9_zoom_r")
+![julia_1920x1080_cX=-0.75_cY=0.01-0.10_r](gifs/julia_1920x1080_cX=-0.75_cY=0.01-0.10_r.gif "julia_1920x1080_cX=-0.75_cY=0.01-0.10_r")
 
 ### Images
 
