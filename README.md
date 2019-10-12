@@ -79,7 +79,7 @@ $ python julia.py
 
 Some interesting ideas would be to vary the cX, cY, and/or zoom parameters to produce the effect of motion. Experiment with different values for each parameter to get a feel for what fractals can be rendered.
 
-Below is a gallery of fractals produces with this code.
+Below is a gallery of fractals produced with this code.
 
 ### Gifs
 
