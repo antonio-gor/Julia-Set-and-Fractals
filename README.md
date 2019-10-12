@@ -59,10 +59,10 @@ Here, cX and cY should be floats; filename will be typecast as a string and indi
 
 ### Custom Function Calls
 
-To render a series of images, a for-loop will be useful. To implement a custom loop, modifications can be made to the runtime() function.
+To render a series of images, a for-loop will be useful. To implement a custom loop, modifications can be made to the *runtype* function.
 
 ``` python
-def runtime():
+def runtype(args, ):
     ...
     # Custom function calls
     for i in range(20):
