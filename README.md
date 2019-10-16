@@ -1,4 +1,4 @@
-# Julia-Fractal-Set
+# Julia Set and Fractals
 ## Exploring fractals in the Julia set
 
 > The infinite! No other question has ever moved so profoundly the spirit of man.
